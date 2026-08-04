@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-Python-green.svg) <!-- 사용한 언어로 변경하세요 -->
 
-계산기 기능과 도서 관리 기능을 하나로 통합한 유틸리티 프로그램입니다. 직관적인 인터페이스와 효율적인 데이터 처리를 목표로 개발되었습니다.
+계산기 프로그램과 도서 관리 기능을 갖춘 유틸리티 프로그램입니다. 직관적인 인터페이스와 효율적인 데이터 처리를 목표로 개발되었습니다.
 
 ---
 
