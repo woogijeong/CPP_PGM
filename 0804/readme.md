@@ -19,7 +19,7 @@
 * **도서 등록/수정/삭제 (CRUD):** ISBN, 제목, 저자, 출판사 정보를 관리
 * **도서 검색:** 제목 또는 저자 키워드 기반 빠른 검색
 * **대여 및 반납 관리:** 도서 대여 상태 업데이트 및 대여 이력 관리
-* **데이터 지속성:** 파일(CSV/JSON) 또는 DB를 통한 데이터 자동 저장<img width="1101" height="618" alt="스크린샷 2026-08-04 150939" src="https://github.com/user-attachments/assets/937e1738-9a2d-404c-975a-15f2ef26c2fa" />
+* **데이터 지속성:** 파일(CSV/JSON) 또는 DB를 통한 데이터 자동 저장
 
 
 ---
@@ -34,5 +34,13 @@
 ## 🛠 스크린샷
 
 <img width="1101" height="618" alt="스크린샷 2026-08-04 150939" src="https://github.com/user-attachments/assets/c288b0ec-f739-44ed-8ce6-44f6d41e7bdc" />
+
+
 <img width="1058" height="767" alt="스크린샷 2026-08-04 150810" src="https://github.com/user-attachments/assets/19d70766-fd27-41f2-b9c4-da1cec9392e5" />
+
+
+<img width="321" height="460" alt="화면 캡처 2026-08-04 151106" src="https://github.com/user-attachments/assets/b90ee12d-6939-4056-82db-3d869ee7134f" />
+
+
+<img width="764" height="634" alt="스크린샷 2026-08-04 151230" src="https://github.com/user-attachments/assets/2b11614b-a1e4-4d40-a45b-75f93ec0a041" />
 
