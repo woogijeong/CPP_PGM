@@ -30,18 +30,3 @@
 * **Database / Storage:** SQLite3 / JSON / CSV
 
 ---
-
-## 📁 프로젝트 구조 (Project Structure)
-
-```text
-├── src/
-│   ├── calculator/          # 계산기 모듈
-│   │   ├── main.py
-│   │   └── utils.py
-│   └── book_manager/        # 도서 관리 모듈
-│       ├── manager.py
-│       └── models.py
-├── data/                    # 도서 데이터 저장 폴더
-├── tests/                   # 단위 테스트
-├── README.md
-└── requirements.txt
