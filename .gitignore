@@ -1,0 +1,13 @@
+.vs/
+Debug/
+Release/
+obj/
+bin/
+
+*.user
+*.suo
+*.VC.db
+*.exe
+*.dll
+*.obj
+*.pdb
