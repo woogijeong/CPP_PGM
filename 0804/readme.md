@@ -13,7 +13,7 @@
 ### 🔢 1. 계산기 (Calculator)
 * **기본 연산:** 사칙연산(덧셈, 뺄셈, 곱셈, 나눗셈) 및 괄호 우선순위 계산
 * **예외 처리:** 0으로 나누기 오류 처리 및 잘못된 수식 입력 검증
-* **기록 조회:** 최근 계산 내역 저장 및 재사용 기능 *(선택사항)*
+
 
 ### 📚 2. 도서 관리 프로그램 (Book Management System)
 * **도서 등록/수정/삭제 (CRUD):** ISBN, 제목, 저자, 출판사 정보를 관리
@@ -25,7 +25,7 @@
 
 ## 🛠 기술 스택 (Tech Stack)
 
-* **Language:** Python 3.10+ *(또는 Java, C++ 등)*
+* **Language:** Python 3.14 , C++ 
 * **GUI / Framework:** PyQt5 / Tkinter *(CLI 프로젝트인 경우 'CLI Base'로 변경)*
 * **Database / Storage:** SQLite3 / JSON / CSV
 
